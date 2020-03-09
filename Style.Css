@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+    margin: 0;
+}
+
+.Name{
+    color: orange;
+}
+
+.half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.half img{
+
+    width: 100%;
+}
+
+.top{
+
+    background-image: url("top.png");
+    background-repeat: no-repeat;
+}
+
+section{
+
+    height: 500px;
+
+}
+
+.Button{
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 700;
+
+}
+
+.bottom{
+
+    background-image: url(dream.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+p{
+    color: black;
+}
