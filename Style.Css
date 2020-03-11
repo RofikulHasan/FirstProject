@@ -55,3 +55,28 @@ section{
 p{
     color: black;
 }
+
+.box{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 60%;
+}
+
+.last{
+
+    background-image: url(4.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#orange{
+
+    border-left: 7px solid;
+    border-image: 10px solid orange;
+    border-image-slice: 1;
+}
+#blue{
+    border-left: 10px solid;
+    border: liner gre;
+    
+}
